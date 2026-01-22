@@ -1,45 +1,63 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi,%20I'm%20Youssef!&fontSize=70&fontColor=ffffff" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Hello,%20I'm%20Youssef!&fontSize=70&fontColor=ffffff&animation=fadeIn" width="100%"/>
   
-  <h3>Computer Engineering Student | C++ Enthusiast | Backend Developer</h3>
-  
-  <p>
-     I love turning complex logic into efficient code. Currently diving deep into 
-     <b>Digital Logic Design</b>, <b>Circuits</b>, and <b>Machine Learning</b>.
-  </p>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=33C4FF&center=true&vCenter=true&width=500&lines=Backend+Developer;Problem+Solver+%26+C%2B%2B+Coder;Future+Machine+Learning+Engineer;Computer+Engineering+Student" alt="Typing SVG" />
+  </a>
+</div>
 
-  <br>
-
-  </div>
+<div align="center">
+  <h3> 🚀 Making the world a better place through code</h3>
+</div>
 
 ---
 
-### 🛠 Languages & Tools
+### 🛠️ Tech Stack & Skills
 
 <div align="center">
+  
+  <p><b>Languages</b></p>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Verilog-B0170F?style=for-the-badge&logo=intel&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   
+  <br><br>
+
+  <p><b>Backend Development</b></p>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rest_API-005571?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/CS50-A51C30?style=for-the-badge&logo=harvard&logoColor=white" />
-  <img src="https://img.shields.io/badge/Discrete%20Math-grey?style=for-the-badge" />
+
+  <br><br>
+
+  <p><b>Computer Science Core</b></p>
+  <img src="https://img.shields.io/badge/Problem_Solving-E34F26?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Data_Structures-2EA44F?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Algorithms-007ACC?style=for-the-badge" />
+  
 </div>
 
 <br>
 
-### 🔭 Current Focus
-- 🧠 Starting my journey in **Machine Learning**.
-- ⚡ Deepening knowledge in **Electronic Circuits** & **Embedded Systems**.
-- 🚀 Developing backend solutions for hackathon projects (like **Orbio**).
+### 🌱 Currently Learning & Exploring
+<div align="center">
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <br>
+  <i>Focusing on Math behind ML, Regression, and Classification algorithms.</i>
+</div>
 
 <br>
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef12as&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Youssef12as&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef12as&layout=compact&theme=dark&hide_border=true" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef12as&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
+</div>
+
+<div align="center">
+  <br>
+  <img src="https://github-profile-trophy.vercel.app/?username=Youssef12as&theme=flat&no-frame=true&margin-w=15" />
 </div>
