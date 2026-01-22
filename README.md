@@ -49,15 +49,6 @@
 
 <br>
 
-### 📊 GitHub Analytics
+### 🧠 Competitive Programming
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Youssef12as&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="160" alt="stats graph" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef12as&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="160" alt="languages graph" />
-</div>
-
-<div align="center">
-  <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Youssef12as&theme=flat&no-frame=true&margin-w=15" />
-</div>
+![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=youssefsayed20&theme=tokyonight)
