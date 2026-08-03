@@ -44,7 +44,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Youssef12as&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/YOUR_GITHUB_USERNAME)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Youssef12as&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/Youssef12as)
 
 </div>
 
@@ -56,9 +56,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef12as/Youssef12as/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef12as/Youssef12as/output/github-contribution-grid-snake.svg">
+    <img src="https://raw.githubusercontent.com/Youssef12as/Youssef12as/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation">
   </picture>
 </div>
 
@@ -79,7 +79,7 @@
 ║                    SETUP INSTRUCTIONS                        ║
 ╠══════════════════════════════════════════════════════════════╣
 ║                                                              ║
-║  1. REPLACE ALL "YOUR_GITHUB_USERNAME" with your actual      ║
+║  1. REPLACE ALL "Youssef12as" with your actual      ║
 ║     GitHub username throughout this file.                    ║
 ║                                                              ║
 ║  2. SNAKE ANIMATION SETUP:                                   ║
@@ -97,7 +97,7 @@
 ║         steps:                                               ║
 ║           - uses: Platane/snk@v3                             ║
 ║             with:                                            ║
-║               github_user_name: YOUR_GITHUB_USERNAME         ║
+║               github_user_name: Youssef12as         ║
 ║               outputs: |                                     ║
 ║                 dist/github-contribution-grid-snake.svg      ║
 ║                 dist/github-contribution-grid-snake-dark.svg?palette=github-dark  ║
