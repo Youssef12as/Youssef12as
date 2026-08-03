@@ -30,7 +30,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Youssef12as&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&icon_color=9ece6a&text_color=a9b1d6&ring_color=bb9af7" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef12as&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff" height="180" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=Youssef12as&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff" height="180" alt="GitHub Streak"/>
 
 <br><br>
 
@@ -50,24 +50,8 @@
 
 ---
 
-<!-- CONTRIBUTION SNAKE -->
-<!-- To set this up, create .github/workflows/snake.yml in your profile repo -->
-<!-- See instructions in the comments below -->
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Youssef12as/Youssef12as/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Youssef12as/Youssef12as/output/github-contribution-grid-snake.svg">
-    <img src="https://raw.githubusercontent.com/Youssef12as/Youssef12as/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution Snake Animation">
-  </picture>
-</div>
-
----
-
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=Youssef12as&style=for-the-badge&color=1a1b26&label=PROFILE+VIEWS&labelColor=292e42" alt="Profile Views"/>
-  <br><br>
   <sub><code>youssef@cairo</code> · <code>build → understand → improve</code></sub>
   <br><br>
 </div>
