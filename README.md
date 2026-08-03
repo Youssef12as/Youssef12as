@@ -20,35 +20,9 @@
 
 </div>
 
----
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=Youssef12as&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&icon_color=9ece6a&text_color=a9b1d6&ring_color=bb9af7" height="180" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://streak-stats.demolab.com/?user=Youssef12as&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff" height="180" alt="GitHub Streak"/>
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef12as&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&text_color=a9b1d6" height="160" alt="Top Languages"/>
-
-</div>
 
 ---
 
-<div align="center">
-
-### 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Youssef12as&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/Youssef12as)
-
-</div>
-
----
 
 <div align="center">
   <br>
