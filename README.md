@@ -28,13 +28,13 @@
 
 <br>
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&icon_color=9ece6a&text_color=a9b1d6&ring_color=bb9af7" height="180" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Youssef12as&show_icons=true&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&icon_color=9ece6a&text_color=a9b1d6&ring_color=bb9af7" height="180" alt="GitHub Stats"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff" height="180" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Youssef12as&theme=tokyonight&hide_border=true&background=1a1b26&ring=bb9af7&fire=f7768e&currStreakLabel=7dcfff" height="180" alt="GitHub Streak"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&text_color=a9b1d6" height="160" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Youssef12as&layout=compact&theme=tokyonight&hide_border=true&bg_color=1a1b26&title_color=7dcfff&text_color=a9b1d6" height="160" alt="Top Languages"/>
 
 </div>
 
@@ -44,7 +44,7 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/YOUR_GITHUB_USERNAME)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Youssef12as&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/YOUR_GITHUB_USERNAME)
 
 </div>
 
@@ -66,7 +66,7 @@
 
 <div align="center">
   <br>
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=for-the-badge&color=1a1b26&label=PROFILE+VIEWS&labelColor=292e42" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=Youssef12as&style=for-the-badge&color=1a1b26&label=PROFILE+VIEWS&labelColor=292e42" alt="Profile Views"/>
   <br><br>
   <sub><code>youssef@cairo</code> · <code>build → understand → improve</code></sub>
   <br><br>
