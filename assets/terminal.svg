@@ -60,7 +60,7 @@
   <text x="64" y="136" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6" font-weight="bold">Youssef Sayed</tspan></text>
 </g>
 <g clip-path="url(#o2)">
-  <text x="64" y="176" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Computer Engineering Student </tspan><tspan fill="#565f89">│</tspan><tspan fill="#a9b1d6"> AI & Backend Engineer</tspan></text>
+  <text x="64" y="176" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Computer Engineering Student </tspan><tspan fill="#565f89">│</tspan><tspan fill="#a9b1d6"> AI &amp; Backend Engineer</tspan></text>
 </g>
 
 <!-- ═══════ Block 2: cat stack.conf ═══════ -->
