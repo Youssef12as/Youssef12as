@@ -80,7 +80,7 @@ I am a Computer Engineering student at Cairo University with a strong foundation
 
 <div align="center">
   <!-- 🏆 Static Codeforces Badge instead of broken stats API -->
-  <a href="https://codeforces.com/profile/Youssef12as">
+  <a href="https://codeforces.com/profile/youssefsayed20">
     <img src="https://img.shields.io/badge/Codeforces-Youssef12as-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces Profile" width="300">
   </a>
 </div>
