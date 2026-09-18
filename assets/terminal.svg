@@ -60,7 +60,7 @@
   <text x="64" y="136" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6" font-weight="bold">Youssef Sayed</tspan></text>
 </g>
 <g clip-path="url(#o2)">
-  <text x="64" y="176" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Computer Engineering Student </tspan><tspan fill="#565f89">│</tspan><tspan fill="#a9b1d6"> Backend Developer</tspan></text>
+  <text x="64" y="176" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Computer Engineering Student </tspan><tspan fill="#565f89">│</tspan><tspan fill="#a9b1d6"> AI & Backend Engineer</tspan></text>
 </g>
 
 <!-- ═══════ Block 2: cat stack.conf ═══════ -->
@@ -71,7 +71,7 @@
   <text x="64" y="272" font-size="22"><tspan fill="#bb9af7">languages   </tspan><tspan fill="#a9b1d6">C++ </tspan><tspan fill="#565f89">· </tspan><tspan fill="#a9b1d6">Python </tspan><tspan fill="#565f89">· </tspan><tspan fill="#a9b1d6">SQL</tspan></text>
 </g>
 <g clip-path="url(#o4)">
-  <text x="64" y="312" font-size="22"><tspan fill="#bb9af7">backend     </tspan><tspan fill="#a9b1d6">Flask </tspan><tspan fill="#565f89">· </tspan><tspan fill="#a9b1d6">REST APIs </tspan><tspan fill="#565f89">· </tspan><tspan fill="#a9b1d6">Git</tspan></text>
+<text x="64" y="312" font-size="22"><tspan fill="#bb9af7">backend     </tspan><tspan fill="#a9b1d6">Node.js </tspan><tspan fill="#565f89">· </tspan><tspan fill="#a9b1d6">PostgreSQL </tspan><tspan fill="#565f89">· </tspan><tspan fill="#a9b1d6">Git</tspan></text>
 </g>
 <g clip-path="url(#o5)">
   <text x="64" y="352" font-size="22"><tspan fill="#bb9af7">core        </tspan><tspan fill="#a9b1d6">DSA </tspan><tspan fill="#565f89">· </tspan><tspan fill="#a9b1d6">Algorithms </tspan><tspan fill="#565f89">· </tspan><tspan fill="#a9b1d6">OOP</tspan></text>
@@ -82,13 +82,13 @@
   <text x="40" y="408" font-size="22"><tspan fill="#9ece6a">youssef@cairo</tspan><tspan fill="#565f89">:</tspan><tspan fill="#7dcfff">~</tspan><tspan fill="#565f89">$ </tspan><tspan fill="#c0caf5">cat mission.log</tspan></text>
 </g>
 <g clip-path="url(#o6)">
-  <text x="64" y="448" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Building robust backend systems</tspan></text>
+  <text x="64" y="448" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Architecting scalable backend systems</tspan></text>
 </g>
 <g clip-path="url(#o7)">
-  <text x="64" y="488" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Exploring Machine Learning &amp; AI</tspan></text>
+  <text x="64" y="488" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Solving complex problems &amp; System Design</tspan></text>
 </g>
 <g clip-path="url(#o8)">
-  <text x="64" y="528" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Solving problems on Codeforces</tspan></text>
+  <text x="64" y="528" font-size="22"><tspan fill="#7dcfff">→ </tspan><tspan fill="#a9b1d6">Deep technical research in AI &amp; ML</tspan></text>
 </g>
 
 <!-- ═══════ Block 4: echo $MOTTO ═══════ -->
